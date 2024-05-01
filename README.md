@@ -23,6 +23,9 @@ I have added all solutions with the problem link and a solution in the markdown.
 | :---  |  :---  |
 | [1387. Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/description/) | [1387.md](medium/1387.md) |
 | [46. Permutations](https://leetcode.com/problems/permutations/description/) | [46.md](medium/46.md) |
+| [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/) | [1915.md](medium/1915.md) |
+| [63. Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/description/) | [63.md](medium/63.md) |
+| [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [62.md](medium/62.md) |
 
 
 
@@ -32,3 +35,5 @@ I have added all solutions with the problem link and a solution in the markdown.
 | :---  | :---  |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [37.md](hard/37.md) |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [42.md](hard/42.md) |
+| [135. Candy](https://leetcode.com/problems/candy/description/) | [135.md](hard/135.md) |
+| [818. Race Car](https://leetcode.com/problems/race-car/description/)| [818.md](hard/818.md) |
