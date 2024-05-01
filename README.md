@@ -8,13 +8,18 @@ I have added all solutions with the problem link and a solution in the markdown.
 
 <style>
 table th:first-of-type {
-    width: 50%;
+    width: 10%;
 }
 table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
     width: 50%;
 }
+table th:nth-of-type(4) {
+    width: 30%;
+}
 </style>
-
 
 # SOLVED PROBLEMS
 
