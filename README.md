@@ -40,3 +40,5 @@ I have added all solutions with the problem link and a solution in the markdown.
 | [818. Race Car](https://leetcode.com/problems/race-car/description/)| [818.md](hard/818.md) |
 | [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [174.md](hard/174.md) |
 | [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) | [980.md](hard/980.md) |
+| [741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [741.md](hard/741.md) |
+| [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/) | [1463.md](hard/1463.md) |
