@@ -26,7 +26,8 @@ I have added all solutions with the problem link and a solution in the markdown.
 | [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/description/) | [1915.md](medium/1915.md) |
 | [63. Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/description/) | [63.md](medium/63.md) |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [62.md](medium/62.md) |
-
+| [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [64.md](medium/64.md) |
+| [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | [525.md](medium/525.md) |
 
 
 - Hard
@@ -37,3 +38,5 @@ I have added all solutions with the problem link and a solution in the markdown.
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [42.md](hard/42.md) |
 | [135. Candy](https://leetcode.com/problems/candy/description/) | [135.md](hard/135.md) |
 | [818. Race Car](https://leetcode.com/problems/race-car/description/)| [818.md](hard/818.md) |
+| [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [174.md](hard/174.md) |
+| [980. Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) | [980.md](hard/980.md) |
